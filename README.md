@@ -1,4 +1,4 @@
-# Решение для соревнования [[SF-DST] Booking reviews](https://www.kaggle.com/competitions/sf-booking) - Прогнозирование рейтинга отеля на Booking
+# Прогнозирование рейтинга отеля на Booking
 
 ## Оглавление  
 <a id = '0'></a>
